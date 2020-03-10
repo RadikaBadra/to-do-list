@@ -1,7 +1,8 @@
 hal yang akan dipelajari oleh radika :
 - Javascript
-- github
+  ^ angular
 - git
 - node js
 - Javascript lanjutan
 - PHP
+  ^ laravel
