@@ -1,6 +1,7 @@
 hal yang akan dipelajari oleh radika :
 - Javascript
   ^ React Native
+  ^ Vue
 - github
 - git
 - node js
