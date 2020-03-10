@@ -4,3 +4,4 @@ hal yang akan dipelajari oleh radika :
 - git
 - node js
 - Javascript lanjutan
+- PHP
