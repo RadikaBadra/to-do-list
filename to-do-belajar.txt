@@ -1,0 +1,6 @@
+hal yang akan dipelajari oleh radika :
+- Javascript
+- github
+- git
+- node js
+- Javascript lanjutan
